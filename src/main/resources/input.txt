@@ -1,0 +1,7 @@
+8
+ADD
+12
+ADD
+45
+MULTIPLY
+2
